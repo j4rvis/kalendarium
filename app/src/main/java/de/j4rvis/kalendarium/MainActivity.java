@@ -1,4 +1,4 @@
-package de.j4rvis.zaigen;
+package de.j4rvis.kalendarium;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

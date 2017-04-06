@@ -1,4 +1,4 @@
-package de.j4rvis.zaigen;
+package de.j4rvis.kalendarium;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
