@@ -30,4 +30,5 @@
     <string name="category_detail_overall_proportion">Overall proportion:</string>
     <string name="category_detail_activity">Kategorie Ansicht</string>
     <string name="expense_create_activity">Neuen Eintrag erstellen</string>
+    <string name="settings_activity">Settings</string>
 </resources>
