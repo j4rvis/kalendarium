@@ -1,10 +1,11 @@
 apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
 
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "de.j4rvis.zaigen"
+        applicationId "de.j4rvis.kalendarium"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
