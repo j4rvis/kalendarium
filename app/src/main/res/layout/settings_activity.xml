@@ -60,6 +60,6 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextMonthValue"
-        tools:listitem="@layout/month_line_item"/>
+        tools:listitem="@layout/settings_line_item"/>
 
 </android.support.constraint.ConstraintLayout>
