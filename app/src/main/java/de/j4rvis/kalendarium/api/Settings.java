@@ -1,15 +1,10 @@
 package de.j4rvis.kalendarium.api;
 
-import io.realm.RealmObject;
-import io.realm.annotations.Index;
-import io.realm.annotations.PrimaryKey;
-
 /**
  * Created by j4rvis on 4/7/17.
  */
 
-public class Settings extends RealmObject{
-    @PrimaryKey @Index
+public class Settings {
     public int id;
     public int year;
     // 0 - 11
