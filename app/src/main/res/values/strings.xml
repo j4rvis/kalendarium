@@ -32,7 +32,6 @@
     <string name="expense_create_activity">Neuen Eintrag erstellen</string>
     <string name="settings_activity">Settings</string>
 
-
     <string-array name="navigation_entries">
         <item>Overview</item>
         <item>Statistics</item>
@@ -45,6 +44,17 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="title_history">History</string>
+    <string name="title_expense_list">Ausgaben</string>
     <string name="title_statistic">Statistic</string>
+    <string name="title_capital">Capital</string>
+    <string name="title_intervals">Interval</string>
+    <string name="minutes">mins</string>
+    <string name="minute">min</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="day">day</string>
+    <string name="days">days</string>
+
+    <string name="current_interval_id">current_interval_id</string>
+    <string name="default_interval_id">-1</string>
 </resources>
